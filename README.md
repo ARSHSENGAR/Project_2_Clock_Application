@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/arshsengar/Project_2_Clock_Application">
-    <img src="https://ibb.co/2vFRkTf" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/8rmG7HS/favicon.png" alt="favicon" border="0">
   </a>
 
   <h3 align="center">Clock Application</h3>
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/1zKZMBJ)
+![Screen Shot](https://i.ibb.co/km0KJz6/Project-2-Clock-Application.png)
 
 This is my second project as an aspiring Full-Stack Developer. Identifying as an Millennial I couldn't help but test my newly acquired JavaScript  skill on a Retro inspired Clock application.
 
